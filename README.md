@@ -6,8 +6,6 @@
         maven { url 'https://jitpack.io' }
     }
 
-## app/build.gradle
-
     implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0-alpha'
 
 ## MainActivity.java
